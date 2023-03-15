@@ -40,14 +40,14 @@ difference also lies in the learning rate. Both models were trained for 100 epoc
 ## Experiment Results
 We trained and tested the six models. Here are some comparison plots for the final results.
 
-![model 1 and 2 val acc and loss]("documentation/model 1 and 2 val acc and loss.jpg")
+![model 1 and 2 val acc and loss](documentation/model_1_and_2_val_acc_and_loss.jpg)
 
-![model 1 and 3 val acc and loss]("documentation/model 1 and 3 val acc and loss.jpg")
+![model 1 and 3 val acc and loss](documentation/model_1_and_3_val_acc_and_loss.jpg)
 
-![model 2 and 4 val acc and loss]("documentation/model 2 and 4 val acc and loss.jpg")
+![model 2 and 4 val acc and loss](documentation/model_2_and_4_val_acc_and_loss.jpg)
 
-![model 3 and 4 val acc and loss]("documentation/model 3 and 4 val acc and loss.jpg")
+![model 3 and 4 val acc and loss](documentation/model_3_and_4_val_acc_and_loss.jpg)
 
-![model 3 and 5 val acc and loss]("documentation/model 3 and 5 val acc and loss.jpg")
+![model 3 and 5 val acc and loss](documentation/model_3_and_5_val_acc_and_loss.jpg)
 
-![model 5 and 6 val acc and loss]("documentation/model 5 and 6 val acc and loss.jpg")
+![model 5 and 6 val acc and loss](documentation/model_5_and_6_val_acc_and_loss.jpg)
